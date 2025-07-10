@@ -32,8 +32,8 @@ This assignment demonstrates the use of dynamic DAX measures to make the dashboa
 - Screenshots of dashboard (inside /images folder)
 
 ## 📸 Dashboard Preview:
-<a href ="https://github.com/Subhrajitgithub18/Advanced-DAX-Dashboard-PowerBI/blob/main/Screenshot%202025-07-10%20202756.png"> DashBoard_Page1 </a>
-<a href ="https://github.com/Subhrajitgithub18/Advanced-DAX-Dashboard-PowerBI/blob/main/Screenshot%202025-07-10%20202817.png"> DashBoard_Page2 </a>
+- <a href ="https://github.com/Subhrajitgithub18/Advanced-DAX-Dashboard-PowerBI/blob/main/Screenshot%202025-07-10%20202756.png"> DashBoard_Page1 </a>
+- <a href ="https://github.com/Subhrajitgithub18/Advanced-DAX-Dashboard-PowerBI/blob/main/Screenshot%202025-07-10%20202817.png"> DashBoard_Page2 </a>
 
 ## 🔗 Useful Links:
 - Power BI Official Docs
