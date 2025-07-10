@@ -5,26 +5,26 @@ Interactive Power BI dashboard built during training at Yavda using Advanced DAX
 This assignment demonstrates the use of dynamic DAX measures to make the dashboard responsive to user interactions like slicers and filters.
 
 ## 🔧 My Contributions:
-I developed key dynamic DAX measures using:
-SELECTEDVALUE() – To show dynamic selections from slicers.
-ISFILTERED() – To detect applied filters in visuals.
-HASONEVALUE() – To create conditional behavior based on single or multiple values.
-These measures made our KPIs and charts adjust contextually, improving the dashboard’s interactivity and user experience.
+- I developed key dynamic DAX measures using:
+- SELECTEDVALUE() – To show dynamic selections from slicers.
+- ISFILTERED() – To detect applied filters in visuals.
+- HASONEVALUE() – To create conditional behavior based on single or multiple values.
+- These measures made our KPIs and charts adjust contextually, improving the dashboard’s interactivity and user experience.
 
 ## 📊 Key Dashboard Features:
-✅ Top 5 Products by Sales (based on dynamic filters)
-✅ Regional Sales Ranking
-✅ Dynamic KPIs responsive to slicer selections
-✅ Clean and interactive layout for better usability
+- ✅ Top 5 Products by Sales (based on dynamic filters)
+- ✅ Regional Sales Ranking
+- ✅ Dynamic KPIs responsive to slicer selections
+- ✅ Clean and interactive layout for better usability
 
 ## 👨‍💻 Team Members:
-Subhrajit Swain (Myself)
-Rahul Kumar Mahto
-Sreeyans Padhi
-Ankeet Kumar Sah
+- Subhrajit Swain (Myself)
+- Rahul Kumar Mahto
+- Sreeyans Padhi
+- Ankeet Kumar Sah
 
 ## 🙏 Guided by:
-Mr. Sabitra Panda – Manager at Yavda
+- Mr. Sabitra Panda – Manager at Yavda
 
 ## 📁 Files Included:
 - Assignment_2_Dashboard.pbix – Power BI file
