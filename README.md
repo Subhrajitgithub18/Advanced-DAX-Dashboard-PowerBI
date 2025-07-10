@@ -36,7 +36,7 @@ This assignment demonstrates the use of dynamic DAX measures to make the dashboa
 - <a href ="https://github.com/Subhrajitgithub18/Advanced-DAX-Dashboard-PowerBI/blob/main/Screenshot%202025-07-10%20202817.png"> DashBoard_Page2 </a>
 
 ## 🔗 Useful Links:
-- <a href ="https://github.com/Subhrajitgithub18/Advanced-DAX-Dashboard-PowerBI/blob/main/Group_6_Assignment_2.pbix">Power BI Official Docs </a>
+- <a href ="https://github.com/Subhrajitgithub18/Advanced-DAX-Dashboard-PowerBI/blob/main/Group_6_Assignment_2.pbix">Power </a>
 - <a href ="https://www.linkedin.com/in/subhrajit-swain">My LinkedIn </a>
 
 ## 💡 Key Learnings:
