@@ -27,16 +27,16 @@ Ankeet Kumar Sah
 Mr. Sabitra Panda – Manager at Yavda
 
 ## 📁 Files Included:
-Assignment_2_Dashboard.pbix – Power BI file
-README.md – Project documentation
-Screenshots of dashboard (inside /images folder)
+- Assignment_2_Dashboard.pbix – Power BI file
+- README.md – Project documentation
+- Screenshots of dashboard (inside /images folder)
 
 ## 📸 Dashboard Preview:
 
 
 ## 🔗 Useful Links:
-Power BI Official Docs
-My LinkedIn
+- Power BI Official Docs
+- My LinkedIn
 
 ## 💡 Key Learnings:
 This project helped me gain hands-on experience in writing context-aware, reusable DAX measures, deepening my understanding of how to make dashboards truly user-responsive and data-driven.
