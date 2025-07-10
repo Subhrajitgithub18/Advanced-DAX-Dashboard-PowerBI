@@ -1,46 +1,46 @@
 # Advanced-DAX-Dashboard-PowerBI
 Interactive Power BI dashboard built during training at Yavda using Advanced DAX functions like SELECTEDVALUE, ISFILTERED, and HASONEVALUE. Features include dynamic KPIs, top 5 product sales, and regional ranking. Focused on filter context and responsive measures.
 
-##📌 Project Overview
+## 📌 Project Overview
 This assignment demonstrates the use of dynamic DAX measures to make the dashboard responsive to user interactions like slicers and filters.
 
-##🔧 My Contributions:
+## 🔧 My Contributions:
 I developed key dynamic DAX measures using:
 SELECTEDVALUE() – To show dynamic selections from slicers.
 ISFILTERED() – To detect applied filters in visuals.
 HASONEVALUE() – To create conditional behavior based on single or multiple values.
 These measures made our KPIs and charts adjust contextually, improving the dashboard’s interactivity and user experience.
 
-##📊 Key Dashboard Features:
+## 📊 Key Dashboard Features:
 ✅ Top 5 Products by Sales (based on dynamic filters)
 ✅ Regional Sales Ranking
 ✅ Dynamic KPIs responsive to slicer selections
 ✅ Clean and interactive layout for better usability
 
-##👨‍💻 Team Members:
+## 👨‍💻 Team Members:
 Subhrajit Swain (Myself)
 Rahul Kumar Mahto
 Sreeyans Padhi
 Ankeet Kumar Sah
 
-##🙏 Guided by:
+## 🙏 Guided by:
 Mr. Sabitra Panda – Manager at Yavda
 
-##📁 Files Included:
+## 📁 Files Included:
 Assignment_2_Dashboard.pbix – Power BI file
 README.md – Project documentation
 Screenshots of dashboard (inside /images folder)
 
-##📸 Dashboard Preview:
+## 📸 Dashboard Preview:
 
 
-##🔗 Useful Links:
+## 🔗 Useful Links:
 Power BI Official Docs
 My LinkedIn
 
-##💡 Key Learnings:
+## 💡 Key Learnings:
 This project helped me gain hands-on experience in writing context-aware, reusable DAX measures, deepening my understanding of how to make dashboards truly user-responsive and data-driven.
 
-##🏷 Hashtags:
+## 🏷 Hashtags:
 #PowerBI #AdvancedDAX #DynamicMeasures #SELECTEDVALUE #ISFILTERED #HASONEVALUE #InteractiveDashboard #DataAnalytics #YavdaAnalytics #TeamWork #LearningByDoing
 
